@@ -17,7 +17,8 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmitGupta700&label=Profile Views&color=blue&style=plastic" alt="AmitGupta700" /> </p>
 
-<br/>
+
+
 -🔭 I’m currently doing my Bachelor's Degree(CSE).
 
 -👀 I’m interested in Coding and Sports Activities.
@@ -25,4 +26,4 @@
 -🌱 I’m currently learning Web Development.
 
 -💬 Ask me about anything, I am happy to help;
-<br/>
+
