@@ -13,7 +13,10 @@
             <img align="center" alt="Amit's Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
 </a>
 <br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmitGupta700&label=Profile Views&color=blue&style=plastic" alt="AmitGupta700" /> </p>
+
+
 - 👋 Hi, I’m @AmitGupta700
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
