@@ -6,13 +6,12 @@
  </a>
 &nbsp&nbsp
 <a href=https://www.instagram.com/amitgupta700/>
-            <img align="center" alt="Aditya's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+            <img align="center" alt="Amit's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 &nbsp&nbsp
 <a href=https://www.facebook.com/profile.php?id=100008039226855>
-            <img align="center" alt="Aditya's Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
+            <img align="center" alt="Amit's Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
 </a>
-
 
 - 👋 Hi, I’m @AmitGupta700
 - 👀 I’m interested in 
