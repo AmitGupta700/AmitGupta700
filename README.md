@@ -18,9 +18,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmitGupta700&label=Profile Views&color=blue&style=plastic" alt="AmitGupta700" /> </p>
 
 
-- 👋 Hi, I’m @AmitGupta700
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🔭 I’m currently doing my Bachelor's Degree(CSE).
+👀 I’m interested in Coding and Sports Activities. 
+🌱 I’m currently learning Web Development
+💬 Ask me about anything, I am happy to help;
 
