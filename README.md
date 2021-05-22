@@ -25,7 +25,7 @@
 
 <h2 align="left">LANGUAGES & TOOLS:</h2>
         <p align="center">
-            <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a></code>
+            <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-                  original.svg"/></a></code>
             <code><a href="https://www.python.org/"><img width="48px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
             <code><a href="https://en.wikipedia.org/wiki/HTML"><img width="48px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
             <code><a href="https://en.wikipedia.org/wiki/CSS"><img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a></code>
@@ -34,13 +34,9 @@
             <code><img height="48px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
             <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200px">
         </p>
-      
-        📊 Github Stats:
-        <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AmitGupta700&show_icons=true&theme=gotham" alt="AmitGupta700" />
-        <p align="right">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitGupta700&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-        </a></p>
-        <p align-"left">
-            <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80px"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-        </p>
+📊 Github Stats:
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AmitGupta700&show_icons=true&theme=gotham" alt="AmitGupta700" />
+<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitGupta700&theme=dark&hide_border=true&background=0D1117&stroke=0000"/></p>
+<p align-"left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80px"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
