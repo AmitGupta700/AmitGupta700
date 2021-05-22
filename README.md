@@ -41,6 +41,8 @@
 <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitGupta700&theme=dark&hide_border=true&background=0D1117&stroke=0000"/></p>
 <p align-"left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80px"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
 
+<br>
+<br/>
  <div align="center">
           Copyright &copy; www.github.com/AmitGupta700. All Rights Reserved!
       </div>
