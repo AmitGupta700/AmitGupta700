@@ -23,3 +23,14 @@
 - 🌱 I’m currently learning Web Development.
 - 💬 Ask me about anything, I am happy to help;
 
+<h2 align="center">LANGUAGES & TOOLS</h2>
+        <p align="center">
+            <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a></code>
+            <code><a href="https://www.python.org/"><img width="48px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
+            <code><a href="https://en.wikipedia.org/wiki/HTML"><img width="48px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
+            <code><a href="https://en.wikipedia.org/wiki/CSS"><img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a></code>
+            <code><a href="https://code.visualstudio.com/"><img width="48x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/64px-Visual_Studio_Code_1.35_icon.svg.png" > </a> </code>
+            <code><a href="https://sourceforge.net/projects/orwelldevcpp/"><img width="47px" src="https://a.fsdn.com/allura/p/orwelldevcpp/icon?1480458710?&w=90" ></a></code>
+        </p>
+        <br>
+        <br>
