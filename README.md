@@ -31,6 +31,10 @@
             <code><a href="https://en.wikipedia.org/wiki/CSS"><img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a></code>
             <code><a href="https://code.visualstudio.com/"><img width="48x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/64px-Visual_Studio_Code_1.35_icon.svg.png" > </a> </code>
             <code><a href="https://sourceforge.net/projects/orwelldevcpp/"><img width="47px" src="https://a.fsdn.com/allura/p/orwelldevcpp/icon?1480458710?&w=90" ></a></code>
+       <code><img height="48px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+        </p>
+        <p align="right"> 
+            <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
         </p>
         <br>
         <br>
