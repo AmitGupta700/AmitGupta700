@@ -38,8 +38,9 @@
 
 📊 Github Stats:
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AmitGupta700&show_icons=true&theme=gotham" alt="AmitGupta700" />
-<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitGupta700&theme=dark&hide_border=true&background=0D1117&stroke=0000"/></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AmitGupta700&show_icons=true&theme=gotham" alt="AmitGupta700" /><p align="center" ><a href="https://github.com/AmitGupta700/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitGupta700&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a></p>
 <p align-"left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80px"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
 
 <br>
